@@ -1,0 +1,9 @@
+LSRTDE
+memorySize sigmaCR sigmaF time_weight reset_population
+10 0.0270102 0.0143459 5 1
+LSRTDE
+memorySize sigmaCR sigmaF time_weight reset_population
+18 0.101987 0.0254554 20 0
+RDE
+psizeParam G_flag EB_flag selectionMode time_weight reset_population
+0.697152 0.0306988 0.349029 1 11 0

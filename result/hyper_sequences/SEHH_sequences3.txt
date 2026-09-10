@@ -1,0 +1,15 @@
+DE
+F CR strategy
+0.191295 0.01753 3
+LSHADE
+memorySize CR F
+37 0.248981 0.538591
+LSHADE
+memorySize CR F
+46 0.750377 0.462958
+GA
+mutationRate crossoverRate elitismRate selectionMethod crossoverMethod
+0.14698 0.983827 0.147145 1 1
+LSHADE
+memorySize CR F
+48 0.812046 0.856599
